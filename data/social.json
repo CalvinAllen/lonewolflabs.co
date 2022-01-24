@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/lone.wolf.labs.oh",
+        "image": "images/social/facebook.png"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/lone.wolf.labs",
+        "image": "images/social/instagram.png"
+    },
+    {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/channel/UCH1tiV3qWFHeZToTLnyL-Yg",
+        "image": "images/social/youtube.png"
+    }
+]
